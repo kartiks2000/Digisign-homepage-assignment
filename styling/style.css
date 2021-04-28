@@ -1,0 +1,197 @@
+
+.navbar{
+    margin-bottom: 2rem;
+}
+
+.card-title{
+    color: darkblue;
+    margin: 1rem;
+    text-align: center;
+}
+
+.card-body{
+    background-color: rgb(153, 202, 241);
+}
+
+.lists1{
+    color: rgb(17, 113, 192);
+}
+
+.col-sm{
+    margin: 2rem;
+}
+
+.nav_title{
+    font-family: 'Times New Roman', Times, serif;
+    color: darkcyan;
+    font-size: 2rem;
+}
+
+.quo{
+    background-color: rgb(67, 69, 70);
+    padding: 1rem;
+    margin: 1rem;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 1.5rem;
+}
+
+.features_head{
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: lavender;
+}
+
+.feature_head_text{
+    color: darkcyan;
+}
+
+.container{
+    margin-top: 1rem;
+}
+
+.q_text{
+    font-size: 1.6rem;
+    color: cyan;
+}
+
+.features{
+    text-align: center;
+}
+
+.feature_icon{
+    text-align: center;
+    font-size: 1rem;
+    color: greenyellow;
+    font-size: 2rem;
+}
+
+.feature{
+    background-color: rgb(153, 202, 241);
+    margin: 1rem;
+    padding: 2rem;
+}
+
+.feature_title{
+    padding: 1.2rem;
+    font-size: 1.6rem;
+    color: red;
+}
+
+.feature_text_box{
+    font-size: 1.2rem;
+}
+
+.feature_text{
+    color: rgb(14, 54, 163);
+    max-width: 60vw;
+    margin: auto;
+}
+
+.content_box{
+    margin: .8rem;
+    padding: 1rem;
+    background-color: azure;
+    text-align: center;
+}
+
+.col{
+    border: 2px solid red;
+}
+
+.inner-box{
+    margin: 1rem;
+}
+
+.intro_text{
+    max-width: 60%;
+    margin: auto;
+    padding-bottom: 2rem;
+}
+
+.intro_text1{
+    text-align: center;
+}
+
+.card_btn{
+    text-align: center;
+    margin: 1rem;
+}
+
+/* .home_ques{
+    
+} */
+
+.version_choice{
+    padding: 1.6rem;
+}
+
+.spec_text{
+    color: red;
+}
+
+.log_form_box{
+    background-image: linear-gradient(to bottom right,rgb(92, 213, 218),rgb(129, 122, 226));
+    padding: 1.6rem;
+}
+
+.log_form{
+    margin: auto;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    min-width: 45%;
+    width: 20rem;
+}
+
+.log_text{
+    padding: 1rem;
+    margin-bottom: 1.6rem;
+}
+
+.log_text_style{
+    font-size: 1.6rem;
+    color: red;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.sub_btn_box{
+    text-align: center;
+    padding: 1rem;
+}
+
+.form-label{
+    color: rgb(13, 65, 107);
+    font-weight: 500;
+}
+
+
+/* .form-control{
+
+} */
+
+.login_form_box{
+    padding: 4rem;
+    min-width: 45%;
+    width: 25rem;
+    margin: auto;
+}
+
+.footer{
+    padding: 1rem;
+    min-height: 9rem;
+    height: 25%;
+    background-color: rgb(70, 68, 68);
+    text-align: center;
+    padding-top: 1.8rem;
+}
+
+.footer_text{
+    color: cyan;
+}
+
+.res_text{
+    color: gray;
+}
